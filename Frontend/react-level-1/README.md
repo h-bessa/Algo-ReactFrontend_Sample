@@ -39,3 +39,10 @@ Build a simple **React** application to handle multiple selection in lists.
 [x] Item 3
 [x] Item 4
 ```
+
+## How to use
+
+I used create-react-app for this exercice without any external libraries.
+``
+yarn start
+``
