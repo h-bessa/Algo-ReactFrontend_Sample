@@ -42,7 +42,8 @@ Build a simple **React** application to handle multiple selection in lists.
 
 ## How to use
 
-I used create-react-app for this exercice without any external libraries.
+I used create-react-app for this exercice without any external libraries. Use 
 ``
 yarn start
 ``
+to launch the app in localhost mode.
